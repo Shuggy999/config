@@ -1,0 +1,15 @@
+firefox
+pcmanfm
+mpv
+zoom
+steam
+lxappearance-gtk3
+scrot
+picom
+dex
+polkit
+polkit-gnome
+nitrogen
+arandr
+dbus
+dunst
